@@ -1,0 +1,7 @@
+D:\Cover Corporation\ASCIIConvertor\ASCIIConvertor\bin\Debug\ASCIIConvertor.exe.config
+D:\Cover Corporation\ASCIIConvertor\ASCIIConvertor\bin\Debug\ASCIIConvertor.exe
+D:\Cover Corporation\ASCIIConvertor\ASCIIConvertor\bin\Debug\ASCIIConvertor.pdb
+D:\Cover Corporation\ASCIIConvertor\ASCIIConvertor\obj\Debug\ASCIIConvertor.csprojAssemblyReference.cache
+D:\Cover Corporation\ASCIIConvertor\ASCIIConvertor\obj\Debug\ASCIIConvertor.csproj.CoreCompileInputs.cache
+D:\Cover Corporation\ASCIIConvertor\ASCIIConvertor\obj\Debug\ASCIIConvertor.exe
+D:\Cover Corporation\ASCIIConvertor\ASCIIConvertor\obj\Debug\ASCIIConvertor.pdb
